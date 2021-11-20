@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/music.css">
+    <link rel="shortcut icon" href="img/x-icon.jpg" type="image/x-icon">
+    <title>HappyPlayer</title>
+
+    <meta name="description" content="Официальный сайт Ютубера HappyPlayer!" />
+    <meta name="keywords" content="HappyPlayer, хэппи плеер, плеер, хэппи, happy player, Happy player, Happy Player, happy Player, hAppy PlAyer" />
+</head>
+<body>
+
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426309330575697"
+     crossorigin="anonymous"></script>
+
+    <header id="header">
+        <a class="header__icon" href="https://www.youtube.com/channel/UCDU1Z3nWHqUS7HWq30tFveQ" target="_blank"><img style="border-radius: 50px; margin-top: 5px; margin-left: 60px;" src="img/x-icon.jpg" alt="Site Icon" width="35px"></a>
+        <a href="https://www.youtube.com/channel/UCDU1Z3nWHqUS7HWq30tFveQ" target="_blank"><p class="header__intro">HappyPlayer</p></a>
+
+    </header>
+
+    <aside id="aside">
+        <a class="sidenav-x" href="index.html" id="sidenav-x1el"></a>
+        <a class="sidenav-x" href="Library.html" id="sidenav-x2el"></a>
+        <a class="sidenav-x" href="" id="sidenav-x3el"></a>
+
+        <p style="margin-top: 450px; margin-left: 45px;" class="copyright-in-downs-hm"></p>
+    </aside>
+
+    <div class="main_bloka">
+        <p id="recetly-and-popularis" style="padding-left: 10px; font-size: 23px;"><b>🤾‍ The Best</b></p><hr><br><br>
+		<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/492853296&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/arcanemuzic" title="Arcane" target="_blank" style="color: #cccccc; text-decoration: none;">Arcane</a> · <a href="https://soundcloud.com/arcanemuzic/hippie-sabotage-devil-eyes-1" title="Hippie Sabotage - Devil Eyes" target="_blank" style="color: #cccccc; text-decoration: none;">Hippie Sabotage - Devil Eyes</a></div></br>
+		<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137743797&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hucci" title="HU₵₵I" target="_blank" style="color: #cccccc; text-decoration: none;">HU₵₵I</a> · <a href="https://soundcloud.com/hucci/desire-remix" title="Meg Myers - Desire (Hucci Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Meg Myers - Desire (Hucci Remix)</a></div></br>
+        <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1149767530&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cloudkid" title="CloudKid" target="_blank" style="color: #cccccc; text-decoration: none;">CloudKid</a> · <a href="https://soundcloud.com/cloudkid/paper-idol-castles-lenno-remix" title="Paper Idol - Castles (Lenno Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Paper Idol - Castles (Lenno Remix)</a></div></br>
+		<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/519858081&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fancydream6" title="Fancy Time" target="_blank" style="color: #cccccc; text-decoration: none;">Fancy Time</a> · <a href="https://soundcloud.com/fancydream6/twin-cabins-swing-lynn" title="Twin Cabins - Swing Lynn" target="_blank" style="color: #cccccc; text-decoration: none;">Twin Cabins - Swing Lynn</a></div></br>
+		<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/208686795&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/s3rl" title="S3RL" target="_blank" style="color: #cccccc; text-decoration: none;">S3RL</a> · <a href="https://soundcloud.com/s3rl/catchit-s3rl" title="Catchit - S3RL" target="_blank" style="color: #cccccc; text-decoration: none;">Catchit - S3RL</a></div></br>
+		<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/264186301&color=%2300e0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kkyashiwazaki" title="Ekky Kashiwazaki" target="_blank" style="color: #cccccc; text-decoration: none;">Ekky Kashiwazaki</a> · <a href="https://soundcloud.com/kkyashiwazaki/nekodex-circles-osu-song" title="Necodex - Circles!" target="_blank" style="color: #cccccc; text-decoration: none;">Necodex - Circles!</a></div>
+    </div>
+
+</body>
+</html>
